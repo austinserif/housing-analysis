@@ -8,7 +8,7 @@
     - If Node.js is not already running on your machine, [go here to download the latest stable version.](https://nodejs.org/en/)
 
 ### Setting up Mashvisor
-1. Add the following environment variables to an `.env` file in the root of yourn project directory:
+1. Add the following environment variables to an `.env` file in the root of your project directory:
 ```
 MASH_BASE_URL="https://api.mashvisor.com"
 MASH_VERSION="v1.1"
