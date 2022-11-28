@@ -1,4 +1,4 @@
-# Real Estate Analysis Client
+# Housing Analysis Client
 
 ## Getting Started
 
